@@ -1,1 +1,1 @@
-This is Student A's text.
+This is Student B's text.
